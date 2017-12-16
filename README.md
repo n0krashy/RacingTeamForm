@@ -1,5 +1,7 @@
 # ASU-RacingTeam application task
 
+![](https://imgur.com/iOdVVKA.png)
+
 Develop a Python backend web application that can be used to save personal information (Name, Email, Phone, Age, Gender, comment) into the database.
 The system should be developed using Django framework for the backend.
 These features are required:
